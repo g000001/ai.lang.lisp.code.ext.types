@@ -1,0 +1,4 @@
+* Type Simplifier: A simple type simplifier
+- http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/lang/lisp/code/ext/types/0.html
+
+
